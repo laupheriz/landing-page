@@ -8,7 +8,7 @@
 .top-header {
    display: flex; 
    justify-content: space-around; 
-   gap: 125px;     
+   gap: 100px; 
 }
 
 .logo {
@@ -67,6 +67,43 @@ button {
 
 img {
     height: 220px;
-    width: 28%;  
+    width: 26%;  
+    
     overflow: hidden; 
 }
+
+.information{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.image_with_subtext {
+    display: flex;
+    justify-content: center;
+    gap: 60px; 
+    
+
+}
+.image_container {
+    flex-wrap: wrap;
+    max-width: 190px; 
+
+}
+.subtext {
+    text-align: center;
+    color: #676769;
+
+}
+
+.four_image {
+    width: 90%; 
+    height: 160px; 
+    border-style: solid ;
+    border-color: #639dea ;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
