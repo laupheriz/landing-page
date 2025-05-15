@@ -107,3 +107,34 @@ img {
     border-width: 5px;
 }
 
+.section-3 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    
+}
+
+.quote_container {
+    max-width: 900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.quote {
+    font-size: 36px; 
+    font-style: italic; 
+    color: #1F2937;
+    
+}
+
+.name {
+    max-width: 800px;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 800;
+    font-size: 30px;
+    
+}
+
