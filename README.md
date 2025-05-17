@@ -10,7 +10,11 @@ Photo entitled positive : by istockphoto-credit-folusiert ( istockphoto.com)
 Photo of giving : by Polina Tankilevitch (www.ptankilevitch.com)  
 Photo of flower: by Anthone (https://www.pexels.com/@inspiredimages/)  
 Thank you photo : by Raj Vaishnaw ( https://www.pexels.com/@raj-vaishnaw-258653/)    
-section 3:  
-Testimonal
+Section 3:  
+Testimonal  
+Section 4:  
+Call to action and sign-up  
+
+Footer
 
 
